@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374cdd6b-6bc3-4aaa-b298-86026609a24f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Khoe_hom_nay_an_g" beforeDir="false" afterPath="$PROJECT_DIR$/../Khoe_hom_nay_an_g" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/Anh-Anh-project" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/Anh-Anh-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/Current_time" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/Current_time" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/Dictionary" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/Dictionary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/IsMail" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/IsMail" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/Product_Discount_Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/Product_Discount_Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/Route_co_ban" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/Route_co_ban" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/backup1" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/backup1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/huongnhaquaque" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/task_manager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session1_M2/session1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session2_M2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session3_M2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shop-vegatable/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Shop-vegatable/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module-2/library_manager" beforeDir="false" afterPath="$PROJECT_DIR$/../module-2/library_manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/.idea/session4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/AbstractClas/Animal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/AbstractClas/Fruits.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/AbtractAndInterfaceTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Animals/Chicken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Animals/Tiger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/CircleComparator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/CircleComparator_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Circle_.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Circle_1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Circle_Resizesble.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Colorable/RectrangleColorable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Colorable/SquareColorable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Colorable/index_Colorable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Colorable/interfaceColorable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Comparator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Cylinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Cylinder_1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Fruits/Apple.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Fruits/Orange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/InterfaceClass/Edible.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/MoveablePoint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Point.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Rectangle_Resizeable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Resizeable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Shape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Shape_Resizesble.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Square_Resizeable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/Triangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/_2D.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/_3D.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/index_2D_3D.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/index_Circle_Cylinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/index_Resizeable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/index_Square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/index_Triangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session4/theki/theki.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session5/.idea/session5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/.idea/session6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/Triển khai lớp LinkedList đơn giản/LinkList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/Triển khai lớp LinkedList đơn giản/Node.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/Triển khai lớp LinkedList đơn giản/index_linked_list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/Triển khai lớp List đơn giản/ArrayList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/Triển khai lớp List đơn giản/index_arraylist.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/xoa_pt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session6/xoa_pt_new.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/.idea/session7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/Refactoring - tach-bien/php-cleancode-refactoring-variable-extraction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/Refactoring - tach-phuong thuc/php-cleancode-refactoring-method-extraction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/Refactoring - đoi-ten-bien-va-tach-hang/php-cleancode-refactoring-renaming" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/Refactoring/php-cleancode-refactoring-exercise" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/UCLN_BCNN/BCNN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session7/UCLN_BCNN/UCLN.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session9/.idea/session9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session9/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session9/login" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t/tamgiac.php" beforeDir="false" afterPath="$PROJECT_DIR$/../t/tamgiac.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" afterPath="$PROJECT_DIR$/../test" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SJwkDIBPMABD6FX5mbIZTKna0q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shop-computer" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374cdd6b-6bc3-4aaa-b298-86026609a24f" name="Default Changelist" comment="" />
+      <created>1571295146140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571295146140</updated>
+      <workItem from="1571295147991" duration="1909000" />
+      <workItem from="1571371918845" duration="3769000" />
+      <workItem from="1574214328469" duration="3216000" />
+      <workItem from="1574233649413" duration="714000" />
+      <workItem from="1574261460123" duration="1550000" />
+      <workItem from="1574435314053" duration="1188000" />
+      <workItem from="1574692336212" duration="599000" />
+      <workItem from="1574733755771" duration="3469000" />
+      <workItem from="1574817357693" duration="1291000" />
+      <workItem from="1574854550524" duration="1390000" />
+      <workItem from="1574905571249" duration="641000" />
+      <workItem from="1574916289125" duration="1801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
